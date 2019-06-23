@@ -185,7 +185,7 @@ body:after {
       height: 300px !important; } }
 
 .bg-image {
-  background-size: cover;
+  background-size: 100%;
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed; }
